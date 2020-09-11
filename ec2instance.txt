@@ -1,1 +1,1 @@
-ec2 instance from AWS.
+ec2 instance from AWS - Amazon Web Services.
